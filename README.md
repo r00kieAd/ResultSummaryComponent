@@ -51,7 +51,7 @@ I brushed up my skills to apply color gradients as well as work with css flexbox
 
 ## Author
 
-- Adhyatma - [Adhyatma Dwivedi](https://www.your-site.com)
+- Adhyatma - [Adhyatma Dwivedi](https://personal-site-tau-ashy.vercel.app/)
 - Frontend Mentor - [@r00kieAd](https://www.frontendmentor.io/profile/r00kieAd)
 - Twitter - [@adhyatmaDwivedi](https://www.twitter.com/adhyatmaDwivedi)
 
