@@ -1,5 +1,5 @@
 .main {
-    position: fixed;
+    position: relative;
     top: 0;
     left: 0;
     transform: translate(0, 0);
@@ -103,7 +103,7 @@ h6 {
 }
 
 .x {
-    padding-right: 10rem;
+    padding-right: 9rem;
 }
 
 .reaction {
@@ -150,6 +150,12 @@ h6 {
 @media screen and (max-width: 390px) {
     .x {
         padding-right: 8rem;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .x {
+        padding-right: 7rem;
     }
 }
 
