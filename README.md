@@ -14,8 +14,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 This is a Result Summary Component website template that shows your scores based on various parameters. This project was taken up me from Frontend Mentor.
@@ -29,12 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](/images/ss.png)
+![Desktop View](images/ss.png)
+![Mobile View](images/mobile-view-ss.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code Repo](https://github.com/r00kieAd/ResultSummaryComponent)
+- Live Site URL: [Live site URL](https://r00kiead.github.io/ResultSummaryComponent/)
 
 ## My process
 
@@ -47,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-I brushed up my skills to apply color gradients as well as work with css flexbox
+I brushed up my skills to apply color gradients as well as work with css flexbox, displays and positions. Was able to use two different htmls for displaying different screen size with the help of JavaScript.
 
 ## Author
 
