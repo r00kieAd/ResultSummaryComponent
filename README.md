@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/Result%20Summary%20Component/images/ss.png)
+![Screenshot](/images/ss.png)
 
 ### Links
 
